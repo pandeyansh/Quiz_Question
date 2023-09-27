@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.quiz-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+h1 {
+  text-align: center;
+}
+ol {
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  margin-bottom: 20px;
+}
+input[type="submit"] {
+  display: block;
+  margin: 20px auto 0;
+}
+.s1 {
+  text-align: center;
+  margin-right: 200px;
+  color: aqua;
+}
+#j1 {
+  text-align: center;
+}
